@@ -27,7 +27,7 @@ autoware: https://github.com/autowarefoundation/autoware
 
 
 # MOS
-1. 4DMOS:https://github.com/PRBonn/4DMOS(听说有新的方法，论文在审查中，很是期待~)
+1. 4DMOS:https://github.com/PRBonn/4DMOS     (听说有新的方法，论文在审查中，很是期待~)
 
 2. Lidar-mos:https://github.com/PRBonn/LiDAR-MOS 搭建环境可能需要费点事情
 # Python
