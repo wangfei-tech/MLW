@@ -22,7 +22,10 @@
 
 # 定位
 主要仿写Apollo和autoware的代码
+
 apollo: https://github.com/ApolloAuto/apollo
+
+Apollo RTK定位代码注释说明网站：https://apollo.baidu.com/community/article/15
 
 autoware: https://github.com/autowarefoundation/autoware
 # C++
