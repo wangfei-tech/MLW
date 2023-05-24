@@ -37,7 +37,7 @@ autoware: https://github.com/autowarefoundation/autoware
 
 2. Lidar-mos:https://github.com/PRBonn/LiDAR-MOS 搭建环境可能需要费点事情
 
-3.DynamicMap_Benchmark https://github.com/KTH-RPL/DynamicMap_Benchmark
+3. DynamicMap_Benchmark https://github.com/KTH-RPL/DynamicMap_Benchmark
 # Python
 待补充~
 
