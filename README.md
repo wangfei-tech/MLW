@@ -28,6 +28,13 @@ apollo: https://github.com/ApolloAuto/apollo
 Apollo RTK定位代码注释说明网站：https://apollo.baidu.com/community/article/15
 
 autoware: https://github.com/autowarefoundation/autoware
+## ndt_mapping
+NDT 比较经典的博客 https://www.cnblogs.com/21207-iHome/p/8039741.html
+
+张博的ndt_map_demo https://github.com/Kin-Zhang/simple_ndt_slam
+
+张博的ndt博客 https://blog.csdn.net/qq_39537898/article/details/115439552#t10
+
 # C++
 待补充~
 
