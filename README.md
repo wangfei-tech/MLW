@@ -40,7 +40,8 @@ NDT 比较经典的博客 https://www.cnblogs.com/21207-iHome/p/8039741.html
 张博的ndt博客 https://blog.csdn.net/qq_39537898/article/details/115439552#t10
 
 # C++
-待补充~
+
+1. C++ 多线程博客（需要梯子）： https://betterprogramming.pub/4-easy-tips-on-using-threads-and-mutexes-in-c-566eb2927152
 
 
 # MOS
