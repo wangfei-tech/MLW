@@ -25,9 +25,13 @@
 
 apollo: https://github.com/ApolloAuto/apollo
 
+Apollo个人开发者的github：https://github.com/daohu527/dig-into-apollo
+
 Apollo RTK定位代码注释说明网站：https://apollo.baidu.com/community/article/15
 
 autoware: https://github.com/autowarefoundation/autoware
+
+
 ## ndt_mapping
 NDT 比较经典的博客 https://www.cnblogs.com/21207-iHome/p/8039741.html
 
